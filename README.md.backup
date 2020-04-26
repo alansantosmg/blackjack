@@ -26,10 +26,10 @@ Set in your `.vimrc`file:
 
 colorscheme blackjack 
 
-syntax on			"Enable syntax highlight (mandatory)
-set number			"Enable line numbers (optional)
-set hlsearch			"Enable highlight search (optional)
-set gcr=a:blinkon0	"Disable cursor blinking (optional)
+syntax on		"Enable syntax highlight (mandatory)
+set number"Enable line numbers (optional)
+set hlsearch"Enable highlight search (optional)
+set gcr=a:blinkon0"Disable cursor blinking (optional)
 
 
 ```
